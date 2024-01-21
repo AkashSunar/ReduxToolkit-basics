@@ -1,0 +1,17 @@
+hr {
+  width: 66%;
+}
+.userList-container {
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+}
+.user {
+    width:60% ;
+  display: flex;
+justify-content: space-between;  
+margin: auto;
+}
+.delete-icon{
+    cursor: pointer;
+}
